@@ -31,7 +31,7 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 ## Work Experiences
 
-- **Facebook at Seattle**
++ **Facebook at Seattle**
 
   *Oct 2019 - current, Research Scientist*
   - Develop machine learning infrastructure
@@ -43,7 +43,7 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
   - Research on wireless networking with 60 GHz links
 
 
-- **NSF Innovation Corps at Arlington**
++ **NSF Innovation Corps at Arlington**
   
   *June 2015 – August 2015, Entrepreneurial Lead*
   - Interview 132 potential customers for hand tracking technology
