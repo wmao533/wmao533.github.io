@@ -13,25 +13,48 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 *See my [google scholar page](https://scholar.google.com/citations?user=_jeddYwAAAAJ&hl=en) for all publications.*
 
-- **Wenguang Mao**, Mei Wang, Wei Sun, Lili Qiu, Swadhin Pradhan, Yi-Chao Chen, “RNN-based Room Scale Hand Motion Tracking,” accepted by ACM MobiCom 2019. (paper|slides)
+- **Wenguang Mao**, Mei Wang, Wei Sun, Lili Qiu, Swadhin Pradhan, Yi-Chao Chen, “RNN-based Room Scale Hand Motion Tracking,” accepted by ACM MobiCom 2019.
 
-- **Wenguang Mao**, Mei Wang, Lili Qiu, “AIM: Acoustic Imaging on a Mobile,” **best paper award**, in Proceedings of ACM MobiSys 2018. (paper|video|slides)
+- **Wenguang Mao**, Mei Wang, Lili Qiu, “AIM: Acoustic Imaging on a Mobile,” **best paper award**, in Proceedings of ACM MobiSys 2018.
 
-- **Wenguang Mao**, Zaiwei Zhang, Lili Qiu, Jian He, Yuchen Cui, Sangki Yun, “Indoor Follow Me Drone,” **best paper nomination**, in Proceedings of ACM MobiSys 2017. (paper|video|slides)
+- **Wenguang Mao**, Zaiwei Zhang, Lili Qiu, Jian He, Yuchen Cui, Sangki Yun, “Indoor Follow Me Drone,” **best paper nomination**, in Proceedings of ACM MobiSys 2017.
 
-- **Wenguang Mao**, Jian He, and Lili Qiu, “CAT: High-Precision Acoustic Motion Tracking,” in Proceedings of ACM MobiCom 2016. (paper|slides)
+- **Wenguang Mao**, Jian He, and Lili Qiu, “CAT: High-Precision Acoustic Motion Tracking,” in Proceedings of ACM MobiCom 2016.
 
-- Xudong Wang and **Wenguang Mao**, “Analog Network Coding Without Restrictions on Superimposed Frames,” ACM/IEEE Transactions on Networking. (paper)
+- Xudong Wang and **Wenguang Mao**, “Analog Network Coding Without Restrictions on Superimposed Frames,” ACM/IEEE Transactions on Networking.
 
-- **Wenguang Mao**, Xudong Wang, Aimin Tang, and Hua Qian, “ANC-ERA: Random Access for Analog Network Coding in Wireless Networks,” IEEE Transactions on Mobile Computing. (paper)
+- **Wenguang Mao**, Xudong Wang, Aimin Tang, and Hua Qian, “ANC-ERA: Random Access for Analog Network Coding in Wireless Networks,” IEEE Transactions on Mobile Computing.
 
-- **Wenguang Mao**, Xudong Wang, and Shanshan Wu, “Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links,” IEEE Transactions on Vehicular Technology. (paper)
+- **Wenguang Mao**, Xudong Wang, and Shanshan Wu, “Distributed Opportunistic Scheduling with QoS Constraints for Wireless Networks with Hybrid Links,” IEEE Transactions on Vehicular Technology.
+
+---
+
+## Work Experiences
+
+- **Facebook Inc in Seattle**
+
+  - *Oct 2019 - current, Research Scientist*
+
+- **HPE Research Labs in Palo Alto**
+
+  - *May 2017 – August 2017, Research Associate*
+  - Research on wireless networking with 60 GHz links
+
+- **NSF Innovation Corps in Arlington**
+  
+  - *June 2015 – August 2015, Entrepreneurial Lead*
+  - Interviewed 132 potential customers for hand tracking technology, including game players, game developers, VR/AR developers, and game companies, to investigate their needs and problems when playing motion games or interacting with AR/VR headsets.
+  - Developed a business model for running a hand-tracking tech. startup based on customer surveys and interviews.
 
 ---
 
 ## Awards
 
-- ACM SIGMOBILE Doctoral Dissertation Award 2020
+- ACM SIGMOBILE Doctoral Dissertation Award (2020)
+
+- ACM MobiSys Best Paper (2018)
+
+- ACM MobiSys Best Paper Nomination (2017)
 
 - Shanghai Outstanding Master's Thesis (2016)
 
@@ -55,21 +78,4 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 ---
 
-## Experiences
-
-- **Facebook**
-
-  - *Oct 2019 - current, Research Scientist*
-
-- **NSF Innovation Corps in Arlington**
-  
-  - *June 2015 – August 2015, Entrepreneurial Lead*
-  - Interviewed 132 potential customers for hand tracking technology, including game players, game developers, VR/AR developers, and game companies, to investigate their needs and problems when playing motion games or interacting with AR/VR headsets.
-  - Developed a business model for running a hand-tracking tech. startup based on customer surveys and interviews.
-
-- **HPE Research Labs in Palo Alto**
-
-  - *May 2017 – August 2017, Research Associate*
-  - Research on wireless networking with 60 GHz links
-
----
+Last update: July 17th, 2020
