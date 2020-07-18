@@ -31,20 +31,21 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 ## Work Experiences
 
-- **Facebook Inc in Seattle**
+- **Facebook at Seattle**
 
   - *Oct 2019 - current, Research Scientist*
+  - Develop machine learning infrastructure
 
-- **HPE Research Labs in Palo Alto**
+- **HPE Research Labs at Palo Alto**
 
   - *May 2017 – August 2017, Research Associate*
   - Research on wireless networking with 60 GHz links
 
-- **NSF Innovation Corps in Arlington**
+- **NSF Innovation Corps at Arlington**
   
   - *June 2015 – August 2015, Entrepreneurial Lead*
-  - Interviewed 132 potential customers for hand tracking technology, including game players, game developers, VR/AR developers, and game companies, to investigate their needs and problems when playing motion games or interacting with AR/VR headsets.
-  - Developed a business model for running a hand-tracking tech. startup based on customer surveys and interviews.
+  - Interview 132 potential customers for hand tracking technology
+  - Develop a business model for running a hand-tracking based startup
 
 ---
 
