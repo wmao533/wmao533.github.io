@@ -37,7 +37,7 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
   - Develop machine learning infrastructure
 
 
-- **HPE Research Labs at Palo Alto**
++ **HPE Research Labs at Palo Alto**
 
   *May 2017 – August 2017, Research Associate*
   - Research on wireless networking with 60 GHz links
