@@ -13,7 +13,7 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 *See my [google scholar page](https://scholar.google.com/citations?user=_jeddYwAAAAJ&hl=en) for all publications.*
 
-- **Wenguang Mao**, Mei Wang, Wei Sun, Lili Qiu, Swadhin Pradhan, Yi-Chao Chen, “RNN-based Room Scale Hand Motion Tracking,” accepted by ACM MobiCom 2019.
+- **Wenguang Mao**, Mei Wang, Wei Sun, Lili Qiu, Swadhin Pradhan, Yi-Chao Chen, “RNN-based Room Scale Hand Motion Tracking,” in Proceedings of ACM MobiCom 2019.
 
 - **Wenguang Mao**, Mei Wang, Lili Qiu, “AIM: Acoustic Imaging on a Mobile,” **best paper award**, in Proceedings of ACM MobiSys 2018.
 
@@ -59,21 +59,17 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 - Shanghai Outstanding Master's Thesis (2016)
 
-- MCD Fellowship from UT Austin (2014-2017)
+- UT Austin MCD Fellowship (2014-2017)
 
-- National Scholarship for Graduate Students (2013, top 3%)
+- National Scholarship for Graduate Students (2013)
 
-- SJTU President’s Award Nominee (2013, 20 nominees over all faculty, staff, and students in SJTU)
-
-- SJTU Pacemaker to Merit Students (2012, 10 winners over about 40,000 graduates and undergraduates)
+- Shanghai Jiao Tong University Top Outstanding Students (2012)
 
 - Shanghai Excellent Graduates (2011)
 
 - International Mathematical Contest in Modeling: Meritorious Winner (2010)
 
-- SJTU Academic Excellence Scholarship: First Class (2010, top 1%)
-
-- National Scholarship for Undergraduate Students (2010, 2009, top 3%)
+- National Scholarship for Undergraduate Students (2010, 2009)
 
 - National High School Mathematical Contest: First Prize (2006, 2005)
 
