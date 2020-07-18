@@ -49,6 +49,7 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
   - Interview 132 potential customers for hand tracking technology
   - Develop a business model for running a hand-tracking based startup
 <br/><br/>
+
 ---
 
 ## Awards
