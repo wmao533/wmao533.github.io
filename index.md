@@ -57,6 +57,10 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 ## Experiences
 
+- **Facebook**
+
+  - *Oct 2019 - current, Research Scientist*
+
 - **NSF Innovation Corps in Arlington**
   
   - *June 2015 – August 2015, Entrepreneurial Lead*
