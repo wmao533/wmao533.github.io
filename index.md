@@ -35,20 +35,20 @@ I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
   *Oct 2019 - current, Research Scientist*
   - Develop machine learning infrastructure
-
+<br/><br/>
 
 + **HPE Research Labs at Palo Alto**
 
   *May 2017 – August 2017, Research Associate*
   - Research on wireless networking with 60 GHz links
-
+<br/><br/>
 
 + **NSF Innovation Corps at Arlington**
   
   *June 2015 – August 2015, Entrepreneurial Lead*
   - Interview 132 potential customers for hand tracking technology
   - Develop a business model for running a hand-tracking based startup
-
+<br/><br/>
 ---
 
 ## Awards
