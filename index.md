@@ -80,7 +80,7 @@ title: Wenguang Mao
 
 - Shanghai Jiao Tong University Top Outstanding Students (2012)
 
-- Shanghai Excellent Graduates (2011)
+- Shanghai Outstanding Undergraduates (2011)
 
 - International Mathematical Contest in Modeling: Meritorious Winner (2010)
 
