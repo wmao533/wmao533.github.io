@@ -3,9 +3,23 @@ layout: page
 title: Wenguang Mao
 ---
 
-I am currently a research scientist at Facebook. I completed PhD in Computer Science from the University of Texas at Austin in 2019. My PhD supervisor is Prof. Lili Qiu. My PhD research focuses on mobile computing and wireless networking. I received my B.S. degree and M.S. degree from Shanghai Jiao Tong University.
+  <table width="700" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr>
+     <td width="73%" valign="middle">
+        <p>
+        I am currently a research scientist at Facebook. I completed PhD in Computer Science from the University of Texas at Austin in 2019. My PhD supervisor is Prof. Lili Qiu. My PhD research focuses on mobile computing and wireless networking. I received my B.S. degree and M.S. degree from Shanghai Jiao Tong University.
+       </p>
+       <p>
+       I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
+        </p>
+       I can be reached at <a href="mailto:maowenguang1987@gmail.com">maowenguang1987@gmail.com</a> 
+        </td>
+        <td width="25%">
+        <img src="pic.JPG">
+        </td>
+      </tr>
+      </table>
 
-I am honored to receive the ACM SIGMOBILE Doctoral Dissertation Award 2020.
 
 ---
 
